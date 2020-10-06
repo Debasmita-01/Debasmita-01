@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently in 2nd year studying Computer Science and Technology at IIEST Shibpur 
 - 🌱 I’m currently learning app development 
-- 📫 How to reach me: <img align = "center" src="https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debasmita-das-8073901a9/)](https://www.linkedin.com/in/debasmita-das-8073901a9/)">. or <img align = "center" src="https://img.shields.io/badge/-Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:debasmitad76@gmail.com)](mailto:debasmitad76@gmail.com)">
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debasmita-das-8073901a9/)](https://www.linkedin.com/in/debasmita-das-8073901a9/) &nbsp;  or  [![Gmail Badge](https://img.shields.io/badge/-Gmail-grey?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:debasmitad76@gmail.com)](mailto:debasmitad76@gmail.com)
 
 
 - 😄 Pronouns: ...

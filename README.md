@@ -10,13 +10,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently in 2nd year studying Computer Science and Technology at IIEST Shibpur 
 - 🌱 I’m currently learning app development 
-- 📫 How to reach me:[![Gmail][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 📫 How to reach me: <img align = "center" src="https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debasmita-das-8073901a9/)](https://www.linkedin.com/in/debasmita-das-8073901a9/">. or <img align = "center" src="https://img.shields.io/badge/-Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:debasmitad76@gmail.com)](mailto:debasmitad76@gmail.com">
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[1.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fgmail%2F59877&psig=AOvVaw0YhQL9t3tJmyU8K9nsQnYB&ust=1602100147761000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCgnqbeoOwCFQAAAAAdAAAAABAD
-[2.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-icon%2Flinkedin-logo_779994.htm&psig=AOvVaw3GOqXEULaC29S2zf8qZwBG&ust=1602100250370000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDrudXeoOwCFQAAAAAdAAAAABAD
-<!-- Links to your social media accounts -->
+<p align="center" style="display: inline">
+<img src="https://img.shields.io/github/followers/Debasmita-01?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/Debasmita-01?style=for-the-badge">
 
-[1]:https://mail.google.com/mail/u/0/#inbox
-[2]: https://www.linkedin.com/in/heinz-martin/
+</p>

@@ -3,7 +3,7 @@
 <!--
 **Debasmita-01/Debasmita-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align='center'>
-  <img style="border-radius:20px;" align='center' src="https://raw.githubusercontent.com/Debasmita-01/Debasmita-01/main/header.png">
+  <img style="border-radius:50%;" align='center' src="https://raw.githubusercontent.com/Debasmita-01/Debasmita-01/main/header.png">
 </div>
 
 Here are some ideas to get you started:

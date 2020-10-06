@@ -6,15 +6,16 @@
 <img src="https://github.com/Debasmita-01/Debasmita-01/blob/main/header.png" width="500" height="500" align="right">
 
 
-Here are some ideas to get you started:
+A little bit about me:
 
 - 🔭 I’m currently in 2nd year studying Computer Science and Technology at IIEST Shibpur 
-- 🌱 I’m currently learning app development 
+- 🌱 I’m currently learning app development ,I keep a keen interest in space technologies
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debasmita-das-8073901a9/)](https://www.linkedin.com/in/debasmita-das-8073901a9/) &nbsp;  or  [![Gmail Badge](https://img.shields.io/badge/-Gmail-grey?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:debasmitad76@gmail.com)](mailto:debasmitad76@gmail.com)
 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Apart from Coding , I am a passionate pianist 
+      
 -->
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/Debasmita-01?style=for-the-badge">

@@ -3,7 +3,7 @@
 <!--
 **Debasmita-01/Debasmita-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!-- ![alt text](https://github.com/Debasmita-01/Debasmita-01/blob/main/header.png?raw=true) -->
-<img src="https://github.com/Debasmita-01/Debasmita-01/blob/main/Add a subheading.jpg" width="500" height="500" align="right">
+<img src="https://github.com/Debasmita-01/Debasmita-01/blob/main/Add a subheading.jpg" width="400" height="600" align="right">
 
 
 A little bit about me:

@@ -3,10 +3,9 @@
 <!--
 **Debasmita-01/Debasmita-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!-- ![alt text](https://github.com/Debasmita-01/Debasmita-01/blob/main/header.png?raw=true) -->
-<img src="https://github.com/Debasmita-01/Debasmita-01/blob/main/Add a subheading.jpg" width="400" height="600" align="right">
+<img src="https://github.com/Debasmita-01/Debasmita-01/blob/main/Add a subheading.jpg" width="500" height="600" align="center">
 
-
-A little bit about me:
+### A little bit about me:
 
 - 🔭 I’m currently in 2nd year studying Computer Science and Technology at IIEST Shibpur 
 - 🌱 I’m a frontend developer and currently learning app development ,I also keep a keen interest in space technologies
@@ -27,4 +26,10 @@ A little bit about me:
 <img src="https://img.shields.io/github/followers/Debasmita-01?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/Debasmita-01?style=for-the-badge">
 
+</p>
+
+ ### My summary:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Debasmita-01&&show_icons=true&title_color=blue&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="50%"/ align=center>
 </p>

@@ -6,7 +6,7 @@
 <!--<img src="https://github.com/Debasmita-01/Debasmita-01/blob/main/Add a subheading.jpg" width="500" height="600" align="center"> -->
 <!--![me](https://raw.githubusercontent.com/Debasmita-01/Debasmita-01/main/mygif.gif)
 -->
-<div align="right">
+<div align="center">
 	<body>
     <img src="/mygif.gif">
     </body>
